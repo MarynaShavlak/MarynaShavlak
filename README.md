@@ -15,7 +15,7 @@
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔗 Links to My Project Repositories: 
-**Individual**:
+### **Individual**:
 <table>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
@@ -23,14 +23,14 @@
   </tr>
   <tr>
     <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
-    <td></td>
+    <td><img src='images/movie-finder.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/react-image-finder" target="_blank">Image Finder</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src='images/image-finder.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/cleaning.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@
 
  
     
-**Collaborative**:
+### **Collaborative**:
 <table>
   <tr>
     <td><a href="https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart" target="_blank">Goose Track</a> (React, Webpack)</td>
