@@ -5,18 +5,18 @@
   - https://www.linkedin.com/in/maryna-shavlak/
   - https://t.me/Marynka_28
 
-## 👩‍💼 Frontend Developer | UI/UX Enthusiast
+👩‍💼 **Frontend Developer | UI/UX Enthusiast** : 
 Passionate about crafting visually stunning and intuitive user interfaces using HTML, CSS, JavaScript, and React. 🚀
 
-## 👩‍💻 Scientific Approach to Coding
+👩‍💻 **Scientific Approach to Coding**: 
 With a background in science, I bring a systematic and logical approach to coding challenges, coupled with excellent problem-solving skills. <br />
 My ability to quickly grasp and apply new concepts makes me an adaptable force in the frontend development field. 🧠💻
 
-## 🎓 Grant Recipient - IT Generation Program
+🎓 **Grant Recipient - IT Generation Program**
 Demonstrated capability as a Front End Developer by securing a grant for the IT Generation program. <br />
 Proficient in leveraging technical skills alongside soft skills for impactful results. 🏆
 
-## 🌟 Passionate Collaborator
+🌟**Collaborator**
 Excited about collaborating with fellow developers and designers to create compelling digital experiences.<br />
 Let's turn ideas into reality! 🌐✨
 ## 🤝 Connect with me:
