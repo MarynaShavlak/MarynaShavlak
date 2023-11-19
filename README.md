@@ -18,7 +18,7 @@
 **Individual**:
 <table>
   <tr>
-    <td>[Phonebook ](https://github.com/MarynaShavlak/phonebook) (React)</td>
+    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a>(React)</td>
      <td>[Movie Finder Hub](https://github.com/MarynaShavlak/react-movie-finder-hub) (React)</td>
   </tr>
   <tr>
@@ -33,19 +33,40 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>[Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)</td>
+    <td>[Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Calculator UA](https://github.com/MarynaShavlak/calculator) (JavaScript)</td>
+    <td>[Tetris Web Game](https://github.com/MarynaShavlak/tetris-js) (JavaScript) - in progress</td>
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Rock-Paper-Scissors Web Game](https://github.com/MarynaShavlak/rock-paper-scissors) (JavaScript)</td>
+    <td>[Invaders Web Game](https://github.com/MarynaShavlak/game-invaders) (JavaScript )</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Lucky Roulette Web Game](https://github.com/MarynaShavlak/game-roulette) (JavaScript)</td>
+    <td>["Find the same cards" Web Game](https://github.com/MarynaShavlak/find-same-cards-game) (JavaScript)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
  </table>
-1. 
-2. 
-3. 
-4. 
-5. [Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)
-6. [Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)
-7. [Calculator UA](https://github.com/MarynaShavlak/calculator) (JavaScript)
-8. [Tetris Web Game](https://github.com/MarynaShavlak/tetris-js) (JavaScript ) - in progress
-9. [Rock-Paper-Scissors Web Game](https://github.com/MarynaShavlak/rock-paper-scissors) (JavaScript )
-10. [Invaders Web Game](https://github.com/MarynaShavlak/game-invaders) (JavaScript )
-11. [Lucky Roulette Web Game](https://github.com/MarynaShavlak/game-roulette) (JavaScript )
-12. ["Find the same cards" Web Game](https://github.com/MarynaShavlak/find-same-cards-game) (JavaScript )
+ 
     
 **Collaborative**:
 1. [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart) (React, Webpack)
