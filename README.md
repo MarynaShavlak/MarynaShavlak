@@ -16,7 +16,9 @@
 
 ## 🔗 Links to My project repositories: 
 **Collaborative**:
- - [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart)
+1. [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart)
+2. [Filmoteka](https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project)
+3. [Ice Cream](https://github.com/AnnaKilchytska/team-work-smart-not-hard)
 
 
 ## 💼 Technical Skills
