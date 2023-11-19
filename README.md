@@ -18,54 +18,55 @@
 **Individual**:
 <table>
   <tr>
-    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a>(React)</td>
-     <td>[Movie Finder Hub](https://github.com/MarynaShavlak/react-movie-finder-hub) (React)</td>
+    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> <br>(React)</td>
+    <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>[Image Finder](https://github.com/MarynaShavlak/react-image-finder) (React)</td>
-     <td>[Cleaning Company](https://github.com/MarynaShavlak/comfort-group-cleaning) (JavaScript, jQuery, Gulp)</td>
+    <td><a href="https://github.com/MarynaShavlak/react-image-finder" target="_blank">Image Finder</a> (React)</td>
+    <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>[Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)</td>
-    <td>[Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)</td>
+    <td><a href="https://github.com/MarynaShavlak/game-sudoku-for-kids" target="_blank">Sudoku for Kids Web Game</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/web-studio" target="_blank">Web Studio</a> (HTML, SASS)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>[Calculator UA](https://github.com/MarynaShavlak/calculator) (JavaScript)</td>
-    <td>[Tetris Web Game](https://github.com/MarynaShavlak/tetris-js) (JavaScript) - in progress</td>
-  </tr>
-<tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>[Rock-Paper-Scissors Web Game](https://github.com/MarynaShavlak/rock-paper-scissors) (JavaScript)</td>
-    <td>[Invaders Web Game](https://github.com/MarynaShavlak/game-invaders) (JavaScript )</td>
+    <td><a href="https://github.com/MarynaShavlak/calculator" target="_blank">Calculator UA</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/tetris-js" target="_blank">Tetris Web Game</a> (JavaScript) - in progress</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>[Lucky Roulette Web Game](https://github.com/MarynaShavlak/game-roulette) (JavaScript)</td>
-    <td>["Find the same cards" Web Game](https://github.com/MarynaShavlak/find-same-cards-game) (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/rock-paper-scissors" target="_blank">Rock-Paper-Scissors Web Game</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/game-invaders" target="_blank">Invaders Web Game</a> (JavaScript)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
- </table>
+  <tr>
+    <td><a href="https://github.com/MarynaShavlak/game-roulette" target="_blank">Lucky Roulette Web Game</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/find-same-cards-game" target="_blank">"Find the same cards" Web Game</a> (JavaScript)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
  
     
 **Collaborative**:
