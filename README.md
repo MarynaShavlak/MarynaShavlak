@@ -76,8 +76,8 @@
     <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
   </tr>
   <tr>
-    <td>![Screenshot_2](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/15e8b7c3-c903-4184-b68f-8536c311ce23)</td>
-    <td>![filmoteka](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/b0ba3737-f419-41a8-aabf-6294fb7e38e0)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AnnaKilchytska/team-work-smart-not-hard" target="_blank">Ice Cream</a> (HTML, CSS, SASS)</td>
