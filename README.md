@@ -76,7 +76,7 @@
     <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![Screenshot_2](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/ee1dc6a2-db60-4c1a-a05f-b1975e495b1b)</td>
     <td></td>
   </tr>
   <tr>
