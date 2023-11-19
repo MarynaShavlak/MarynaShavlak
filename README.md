@@ -14,12 +14,30 @@
 <br /><br /><br />
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔗 Links to My project repositories: 
+## 🔗 Links to My Project Repositories: 
 **Individual**:
-1. [Phonebook ](https://github.com/MarynaShavlak/phonebook) (React)
-2. [Movie Finder Hub](https://github.com/MarynaShavlak/react-movie-finder-hub) (React)
-3. [Image Finder](https://github.com/MarynaShavlak/react-image-finder) (React)
-4. [Cleaning Company](https://github.com/MarynaShavlak/comfort-group-cleaning) (JavaScript, jQuery, Gulp)
+<table>
+  <tr>
+    <td>[Phonebook ](https://github.com/MarynaShavlak/phonebook) (React)</td>
+     <td>[Movie Finder Hub](https://github.com/MarynaShavlak/react-movie-finder-hub) (React)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[Image Finder](https://github.com/MarynaShavlak/react-image-finder) (React)</td>
+     <td>[Cleaning Company](https://github.com/MarynaShavlak/comfort-group-cleaning) (JavaScript, jQuery, Gulp)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+ </table>
+1. 
+2. 
+3. 
+4. 
 5. [Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)
 6. [Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)
 7. [Calculator UA](https://github.com/MarynaShavlak/calculator) (JavaScript)
