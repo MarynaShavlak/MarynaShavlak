@@ -54,16 +54,16 @@
     <td><a href="https://github.com/MarynaShavlak/game-invaders" target="_blank">Invaders Web Game</a> (JavaScript)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src='images/rock.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/invaders.png' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/game-roulette" target="_blank">Lucky Roulette Web Game</a> (JavaScript)</td>
     <td><a href="https://github.com/MarynaShavlak/find-same-cards-game" target="_blank">"Find the same cards" Web Game</a> (JavaScript)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src='images/roulette.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/cards.png' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
 </table>
 
