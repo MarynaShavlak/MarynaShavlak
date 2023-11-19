@@ -67,9 +67,8 @@
   </tr>
 </table>
 
- <br /><br /><br />
-    <br /><br /><br />
-    
+ <br />
+ 
 ### Collaborative:
 <table>
   <tr>
