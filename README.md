@@ -22,7 +22,7 @@
     <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
   </tr>
   <tr>
-    <td></td>
+    <td><</td>
     <td></td>
   </tr>
   <tr>
@@ -76,8 +76,8 @@
     <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src='images/goosetrack.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/filmoteka.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AnnaKilchytska/team-work-smart-not-hard" target="_blank">Ice Cream</a> (HTML, CSS, SASS)</td>
