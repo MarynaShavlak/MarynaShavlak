@@ -22,7 +22,7 @@
 4. [Cleaning Company](https://github.com/MarynaShavlak/comfort-group-cleaning) (JavaScript, jQuery, Gulp)
 5. [Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)
 6. [Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)
-7. [Calculator UA](https://github.com/MarynaShavlak/calculator)
+7. [Calculator UA](https://github.com/MarynaShavlak/calculator) (JavaScript)
 8. [Tetris Web Game](https://github.com/MarynaShavlak/tetris-js) (JavaScript ) - in progress
 9. [Rock-Paper-Scissors Web Game](https://github.com/MarynaShavlak/rock-paper-scissors) (JavaScript )
 10. [Invaders Web Game](https://github.com/MarynaShavlak/game-invaders) (JavaScript )
