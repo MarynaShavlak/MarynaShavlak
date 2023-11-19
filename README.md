@@ -15,7 +15,7 @@
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔗 Links to My Project Repositories: 
-### **Individual**:
+### Individual:
 <table>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
@@ -67,9 +67,10 @@
   </tr>
 </table>
 
- 
+ <br /><br /><br />
+    <br /><br /><br />
     
-### **Collaborative**:
+### Collaborative:
 <table>
   <tr>
     <td><a href="https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart" target="_blank">Goose Track</a> (React, Webpack)</td>
