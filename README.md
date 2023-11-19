@@ -1,9 +1,6 @@
 ![banner-git](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/18decad7-c9a0-40e9-923a-f180d0a0a8b8)
 # Hi there, I am Maryna Shavlak 👋
 - 🌱 I’m currently learning TypeScript.
-- 📫 How to reach me: 
-  - https://www.linkedin.com/in/maryna-shavlak/
-  - https://t.me/Marynka_28
 
 👩‍💼 **Frontend Developer | UI/UX Enthusiast**: Passionate about crafting visually stunning and intuitive user interfaces using HTML, CSS, JavaScript, and React. 🚀<br />
 👩‍💻 **Scientific Approach to Coding**: With a background in science, I bring a systematic and logical approach to coding challenges, coupled with excellent problem-solving skills. My ability to quickly grasp and apply new concepts makes me an adaptable force in the frontend development field. 🧠💻<br />
