@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**MarynaShavlak/MarynaShavlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi there, I am Maryna Shavlak 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+[Linkedin](https://www.linkedin.com/in/maryna-shavlak/)https://www.linkedin.com/in/maryna-shavlak/
+[Telegram](https://t.me/Marynka_28)https://t.me/Marynka_28
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+## 👩‍💼 Frontend Developer | UI/UX Enthusiast
+
+Passionate about crafting visually stunning and intuitive user interfaces using HTML, CSS, JavaScript, and React. 🚀
+
+👩‍💻 Scientific Approach to Coding
+
+With a background in science, I bring a systematic and logical approach to coding challenges, coupled with excellent problem-solving skills. My ability to quickly grasp and apply new concepts makes me an adaptable force in the frontend development field. 🧠💻
+
+## 🎓 Grant Recipient - IT Generation Program
+
+Demonstrated capability as a Front End Developer by securing a grant for the IT Generation program. Proficient in leveraging technical skills alongside soft skills for impactful results. 🏆
+
+## 🌟 Passionate Collaborator
+
+Excited about collaborating with fellow developers and designers to create compelling digital experiences. Let's turn ideas into reality! 🌐✨
