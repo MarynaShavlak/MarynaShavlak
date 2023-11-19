@@ -22,7 +22,7 @@
     <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td></td>
   </tr>
   <tr>
