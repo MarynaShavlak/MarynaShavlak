@@ -1,3 +1,4 @@
+![banner2](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/2e421721-43e5-40f6-b125-84bd3c7d94eb)
 # Hi there, I am Maryna Shavlak 👋
 - 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me: 
