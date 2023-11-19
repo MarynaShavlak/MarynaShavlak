@@ -22,7 +22,7 @@
     <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
   </tr>
   <tr>
-    <td><</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -31,23 +31,23 @@
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td><img src='images/cleaning.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/game-sudoku-for-kids" target="_blank">Sudoku for Kids Web Game</a> (JavaScript)</td>
     <td><a href="https://github.com/MarynaShavlak/web-studio" target="_blank">Web Studio</a> (HTML, SASS)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src='images/sudoku.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/web.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/calculator" target="_blank">Calculator UA</a> (JavaScript)</td>
     <td><a href="https://github.com/MarynaShavlak/tetris-js" target="_blank">Tetris Web Game</a> (JavaScript) - in progress</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src='images/tetris.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/calculator.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/rock-paper-scissors" target="_blank">Rock-Paper-Scissors Web Game</a> (JavaScript)</td>
@@ -84,7 +84,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src='images/icecream.jpg' width=300 alt="скріншот  cторінки сайту" ></td>
     <td></td>
   </tr>
 </table>
