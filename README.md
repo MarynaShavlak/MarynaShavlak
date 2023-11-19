@@ -15,10 +15,24 @@
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔗 Links to My project repositories: 
+**Individual**:
+1. [Phonebook ](https://github.com/MarynaShavlak/phonebook) (React)
+2. [Movie Finder Hub](https://github.com/MarynaShavlak/react-movie-finder-hub) (React)
+3. [Image Finder](https://github.com/MarynaShavlak/react-image-finder) (React)
+4. [Cleaning Company](https://github.com/MarynaShavlak/comfort-group-cleaning) (JavaScript, jQuery, Gulp)
+5. [Sudoku for Kids Web Game](https://github.com/MarynaShavlak/game-sudoku-for-kids) (JavaScript)
+6. [Web Studio](https://github.com/MarynaShavlak/web-studio) (HTML, SASS)
+7. [Calculator UA](https://github.com/MarynaShavlak/calculator)
+8. [Tetris Web Game](https://github.com/MarynaShavlak/tetris-js) (JavaScript ) - in progress
+9. [Rock-Paper-Scissors Web Game](https://github.com/MarynaShavlak/rock-paper-scissors) (JavaScript )
+10. [Invaders Web Game](https://github.com/MarynaShavlak/game-invaders) (JavaScript )
+11. [Lucky Roulette Web Game](https://github.com/MarynaShavlak/game-roulette) (JavaScript )
+12. ["Find the same cards" Web Game](https://github.com/MarynaShavlak/find-same-cards-game) (JavaScript )
+    
 **Collaborative**:
-1. [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart)
-2. [Filmoteka](https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project)
-3. [Ice Cream](https://github.com/AnnaKilchytska/team-work-smart-not-hard)
+1. [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart) (React, Webpack)
+2. [Filmoteka](https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project) (JavaScript, Parcel)
+3. [Ice Cream](https://github.com/AnnaKilchytska/team-work-smart-not-hard) (HTML, CSS, SASS)
 
 
 ## 💼 Technical Skills
