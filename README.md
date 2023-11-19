@@ -18,7 +18,7 @@
 **Individual**:
 <table>
   <tr>
-    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> <br>(React)</td>
+    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
   </tr>
   <tr>
@@ -70,9 +70,25 @@
  
     
 **Collaborative**:
-1. [Goose Track](https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart) (React, Webpack)
-2. [Filmoteka](https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project) (JavaScript, Parcel)
-3. [Ice Cream](https://github.com/AnnaKilchytska/team-work-smart-not-hard) (HTML, CSS, SASS)
+<table>
+  <tr>
+    <td><a href="https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart" target="_blank">Goose Track</a> (React, Webpack)</td>
+    <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AnnaKilchytska/team-work-smart-not-hard" target="_blank">Ice Cream</a> (HTML, CSS, SASS)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 ## 💼 Technical Skills
