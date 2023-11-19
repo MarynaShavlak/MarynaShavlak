@@ -26,9 +26,8 @@ Excited about collaborating with fellow developers and designers to create compe
 Let's turn ideas into reality! 🌐✨
 ## 🤝 Connect with me:
 
-[<img src="https://user-images.githubusercontent.com/43321337/219869938-7b3098f4-58f4-453b-aa26-fe4b32af1140.png" alt="My telegram" width="50" align="left">]([https://t.me/AKRay1994](https://t.me/Marynka_28))
-[<img src="https://user-images.githubusercontent.com/43321337/219869971-357eab9d-3a68-410a-a773-ef18336f7125.png" alt="My linkedIn" width="50" align="left">]([https://www.linkedin.com/in/artem-krylov-3b0b37264/](https://www.linkedin.com/in/maryna-shavlak/))
-
+[<img src="https://user-images.githubusercontent.com/43321337/219869938-7b3098f4-58f4-453b-aa26-fe4b32af1140.png" alt="My telegram" width="50" align="left">]([[https://t.me/AKRay1994](https://t.me/Marynka_28)](https://t.me/Marynka_28))
+[<img src="https://user-images.githubusercontent.com/43321337/219869971-357eab9d-3a68-410a-a773-ef18336f7125.png" alt="My linkedIn" width="50" align="left">]([[https://www.linkedin.com/in/artem-krylov-3b0b37264/](https://www.linkedin.com/in/artem-krylov-3b0b37264/](https://www.linkedin.com/in/maryna-shavlak/)](https://www.linkedin.com/in/maryna-shavlak/))
 [<img src="https://user-images.githubusercontent.com/43321337/219870021-6d65f4f0-30ba-4ebc-9bd5-636e6928c19d.png" alt="My email" width="65" align="left">](mailto:shavlakmaryna@gmail.com)
 <br /><br /><br />
 
