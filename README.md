@@ -76,7 +76,7 @@
     <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
   </tr>
   <tr>
-    <td><img src='images/goosetrack.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/goose.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/filmoteka.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
