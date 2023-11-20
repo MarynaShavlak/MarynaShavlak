@@ -46,8 +46,8 @@
     <td><a href="https://github.com/MarynaShavlak/tetris-js" target="_blank">Tetris Web Game</a> (JavaScript) - in progress</td>
   </tr>
   <tr>
-    <td><img src='images/tetris.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/calculator.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/tetris.png' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/rock-paper-scissors" target="_blank">Rock-Paper-Scissors Web Game</a> (JavaScript)</td>
@@ -68,7 +68,7 @@
 </table>
 
  <br />
- 
+
 ### Collaborative:
 <table>
   <tr>
