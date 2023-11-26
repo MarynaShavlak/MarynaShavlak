@@ -65,6 +65,14 @@
     <td><img src='images/roulette.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/cards.png' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/MarynaShavlak/mortgage-loan-calculator" target="_blank">Mortgage Loan Calculator</a> (JavaScript)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src='images/calculator-credit.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td></td>
+  </tr>
 </table>
 
  <br />
