@@ -18,7 +18,7 @@
 ### Individual:
 <table>
   <tr>
-    <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Dev Interview Hub</a> (React, Typescript)</td>
+    <td><a href="https://github.com/MarynaShavlak/dev-interview-hub" target="_blank">Dev Interview Hub</a> (React, Typescript)</td>
     <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
     
   </tr>
