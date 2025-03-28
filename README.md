@@ -18,19 +18,21 @@
 ### Individual:
 <table>
   <tr>
+    <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Dev Interview Hub</a> (React, Typescript)</td>
     <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
-    <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
+    
   </tr>
   <tr>
-    <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/movie-finder.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    
   </tr>
   <tr>
-    <td><a href="https://github.com/MarynaShavlak/react-image-finder" target="_blank">Image Finder</a> (React)</td>
+   <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
   </tr>
   <tr>
-    <td><img src='images/image-finder.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/movie-finder.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/cleaning.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
@@ -66,13 +68,14 @@
     <td><img src='images/cards.png' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/MarynaShavlak/react-image-finder" target="_blank">Image Finder</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/mortgage-loan-calculator" target="_blank">Mortgage Loan Calculator</a> (JavaScript)</td>
-    <td></td>
+    
   </tr>
   <tr>
+    <td><img src='images/image-finder.png' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/calculator-credit.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
-    <td></td>
-  </tr>
+    </tr>
 </table>
 
  <br />
