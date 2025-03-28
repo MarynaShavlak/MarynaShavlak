@@ -23,7 +23,7 @@
     
   </tr>
   <tr>
-    <td><img src='images/movie-finder.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/devInterview.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
     <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
     
   </tr>
