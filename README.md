@@ -84,7 +84,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/SvitlanaHonchar/Goose-Track_Work-Smart" target="_blank">Goose Track</a> (React, Webpack)</td>
-    <td><a href="https://github.com/Anzhelika-Light/Work-smart-not-hard---JS-Project" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
+    <td><a href="https://github.com/MarynaShavlak/filmoteka" target="_blank">Filmoteka</a> (JavaScript, Parcel)</td>
   </tr>
   <tr>
     <td><img src='images/goose.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
