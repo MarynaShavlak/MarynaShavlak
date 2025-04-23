@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td><img src='images/goose.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
-    <td><img src='images/filmoteka.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/filmoteka.gif' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AnnaKilchytska/team-work-smart-not-hard" target="_blank">Ice Cream</a> (HTML, CSS, SASS)</td>
