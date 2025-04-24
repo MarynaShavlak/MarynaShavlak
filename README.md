@@ -83,14 +83,14 @@
   <tr>
     <td><img src='images/countries-hub.gif' width=400 alt="скріншот  cторінки сайту" ></td>
      <td><img src='images/crypto.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-    </tr>
-     <tr>
+  </tr>
+ <tr>
     <td><a href="https://github.com/MarynaShavlak/shopping-list-ts" target="_blank">Shopping List</a> (React, Typesript)</td>
-   
+    <td><a href="https://github.com/MarynaShavlak/shopping-list-ts" target="_blank">Shopping List</a> (React, Typesript)</td>
   </tr>
   <tr>
     <td><img src='images/shopping-list.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-  
+     <td><img src='images/shopping-list.gif' width=400 alt="скріншот  cторінки сайту" ></td>
     </tr>
 </table>
 
