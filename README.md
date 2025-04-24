@@ -85,12 +85,12 @@
      <td><img src='images/crypto.gif' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
  <tr>
-    <td><a href="https://github.com/MarynaShavlak/shopping-list-ts" target="_blank">Shopping List</a> (React, Typesript)</td>
-    <td><a href="https://github.com/MarynaShavlak/shopping-list-ts" target="_blank">Shopping List</a> (React, Typesript)</td>
+    <td><a href="https://github.com/MarynaShavlak/shopping-list-ts" target="_blank">Shopping List</a> (React, Typesript, Canvas)</td>
+    <td><a href="https://github.com/MarynaShavlak/code-meter" target="_blank">Code Meter</a> (JavaScript, Canvas)</td>
   </tr>
   <tr>
     <td><img src='images/shopping-list.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-     <td><img src='images/shopping-list.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/code-meter.gif' width=400 alt="скріншот  cторінки сайту" ></td>
     </tr>
 </table>
 
