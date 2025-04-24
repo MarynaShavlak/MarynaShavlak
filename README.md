@@ -28,7 +28,7 @@
     
   </tr>
   <tr>
-   <td><a href="https://github.com/MarynaShavlak/react-movie-finder-hub" target="_blank">Movie Finder Hub</a> (React)</td>
+   <td><a href="https://github.com/MarynaShavlak/movie-finder" target="_blank">Movie Finder</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
   </tr>
   <tr>
