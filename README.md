@@ -78,11 +78,11 @@
     </tr>
     <tr>
     <td><a href="https://github.com/MarynaShavlak/countries-hub" target="_blank">Countries Hub</a> (React, Typesript)</td>
-     
+     <td><a href="https://github.com/MarynaShavlak/crypto" target="_blank">Crypto Web App</a> (React, Vite)</td>
   </tr>
   <tr>
     <td><img src='images/countries-hub.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-    
+     <td><img src='images/crypto.gif' width=400 alt="скріншот  cторінки сайту" ></td>
     </tr>
 </table>
 
