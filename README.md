@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/game-roulette" target="_blank">Lucky Roulette Web Game</a> (JavaScript)</td>
-    <td><a href="https://github.com/MarynaShavlak/find-same-cards-game" target="_blank">"Find the same cards" Web Game</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/matching-game" target="_blank">Matching Web Game</a> (JavaScript)</td>
   </tr>
   <tr>
     <td><img src='images/roulette.png' width=400 alt="скріншот  cторінки сайту" ></td>
