@@ -81,7 +81,7 @@
      
   </tr>
   <tr>
-    <td><img src='images/countries-hub.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/countries-hub.gif' width=400 alt="скріншот  cторінки сайту" ></td>
     
     </tr>
 </table>
