@@ -91,7 +91,15 @@
   <tr>
     <td><img src='images/shopping-list.gif' width=400 alt="скріншот  cторінки сайту" ></td>
      <td><img src='images/code-meter.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-    </tr>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarynaShavlak/jt-types-conversations-quiz" target="_blank">JavaScript Quiz</a> (jQuery)</td>
+    <td><a href="https://marynashavlak.github.io/kharkiv-slider/" target="_blank">Explore Kharkiv</a> (jQuery)</td>
+  </tr>
+  <tr>
+    <td><img src='images/js-quiz.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/explore-kharkiv.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+  </tr>
 </table>
 
  <br />
