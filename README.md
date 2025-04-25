@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td><img src='images/js-quiz.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-     <td><img src='images/explore-kharkiv.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/explore-kharkiv.jpeg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
 </table>
 
