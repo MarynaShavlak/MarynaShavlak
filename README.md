@@ -102,11 +102,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/registration-form-validation" target="_blank">Registration Form Validation</a> (JavaScript)</td>
-    <td><a href="https://marynashavlak.github.io/kharkiv-slider/" target="_blank">Explore Kharkiv</a> (jQuery)</td>
+    <td><a href="https://github.com/MarynaShavlak/car-landing" target="_blank">Car Landing Page</a> (jQuery)</td>
   </tr>
   <tr>
     <td><img src='images/reg-form.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
-     <td><img src='images/explore-kharkiv.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/car-landing.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
 </table>
 
