@@ -101,7 +101,7 @@
      <td><img src='images/explore-kharkiv.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
-    <td><a href="[https://github.com/MarynaShavlak/jt-types-conversations-quiz](https://github.com/MarynaShavlak/registration-form-validation)" target="_blank">Registration Form Validation</a> (JavaScript)</td>
+    <td><a href="https://github.com/MarynaShavlak/registration-form-validation" target="_blank">Registration Form Validation</a> (JavaScript)</td>
     <td><a href="https://marynashavlak.github.io/kharkiv-slider/" target="_blank">Explore Kharkiv</a> (jQuery)</td>
   </tr>
   <tr>
