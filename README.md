@@ -108,6 +108,14 @@
     <td><img src='images/reg-form.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
      <td><img src='images/car-landing.gif' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
+   <tr>
+    <td><a href="[https://github.com/MarynaShavlak/car-landing](https://github.com/MarynaShavlak/bhagaskara-landing)" target="_blank">Bhagaskara Landing Page</a> (jQuery, Canvas)</td>
+    <td><a href="https://github.com/MarynaShavlak/car-landing" target="_blank">Car Landing Page</a> (jQuery)</td>
+  </tr>
+  <tr>
+   <td><img src='images/bhagaskara-landing.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/car-landing.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+  </tr>
 </table>
 
  <br />
