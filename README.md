@@ -28,6 +28,16 @@
     
   </tr>
   <tr>
+    <td><a href="https://github.com/MarynaShavlak/tetromino" target="_blank">Tetromino Web Game</a> (JavaScript, Canvas)</td>
+    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
+    
+  </tr>
+  <tr>
+    <td><img src='images/tetromino-demo.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    
+  </tr>
+  <tr>
    <td><a href="https://github.com/MarynaShavlak/movie-finder" target="_blank">Movie Finder</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
   </tr>
