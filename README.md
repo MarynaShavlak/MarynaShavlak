@@ -1,4 +1,5 @@
-![banner-git](https://github.com/MarynaShavlak/MarynaShavlak/assets/111526360/18decad7-c9a0-40e9-923a-f180d0a0a8b8)
+![banner-linkedin-0905](https://github.com/user-attachments/assets/70b41280-0021-4f15-849b-a875cd597aa8)
+
 # Hi there, I am Maryna Shavlak 👋
 - 🌱 I’m currently learning TypeScript.
 
