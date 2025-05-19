@@ -30,12 +30,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/tetromino" target="_blank">Tetromino Web Game</a> (JavaScript, Canvas)</td>
-    <td><a href="https://github.com/MarynaShavlak/phonebook" target="_blank">Phonebook</a> (React)</td>
+    <td><a href="https://github.com/MarynaShavlak/daniela-4-years-game" target="_blank">Happy Birthday Riddle Quest</a> (React, TypeScript)</td>
     
   </tr>
   <tr>
     <td><img src='images/tetromino-demo.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-    <td><img src='images/mobile.png' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/daniela.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
     
   </tr>
   <tr>
