@@ -132,7 +132,7 @@
      <td><img src='images/car-landing.gif' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
    <tr>
-    <td><a href="[https://github.com/MarynaShavlak/car-landing](https://github.com/MarynaShavlak/bhagaskara-landing)" target="_blank">Bhagaskara Landing Page</a> (jQuery, Canvas)</td>
+    <td><a href="https://github.com/MarynaShavlak/bhagaskara-landing" target="_blank">Bhagaskara Landing Page</a> (jQuery, Canvas)</td>
     <td></td>
   </tr>
   <tr>
