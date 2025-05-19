@@ -38,6 +38,18 @@
     <td><img src='images/daniela.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
     
   </tr>
+<tr>
+    <td><a href="https://github.com/MarynaShavlak/eslint-plugin-toggle-features" target="_blank">ESLint Plugin Toggle Features</a> (JavaScript, AST, ESLint Plugin)</td>
+    <td><a href="https://github.com/MarynaShavlak/eslint-plugin-path-supervisor" target="_blank">ESLint Plugin Path Supervisor</a> (JavaScript, AST, ESLint Plugin</td>
+    
+  </tr>
+  <tr>
+    <td><img src='images/eslint-toggle.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    <td><img src='images/eslint-supervisor.jpg' width=400 alt="скріншот  cторінки сайту" ></td>
+    
+  </tr>
+
+  
   <tr>
    <td><a href="https://github.com/MarynaShavlak/movie-finder" target="_blank">Movie Finder</a> (React)</td>
     <td><a href="https://github.com/MarynaShavlak/comfort-group-cleaning" target="_blank">Cleaning Company</a> (JavaScript, jQuery, Gulp)</td>
