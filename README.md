@@ -68,11 +68,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/calculator" target="_blank">Calculator UA</a> (JavaScript)</td>
-    <td><a href="https://github.com/MarynaShavlak/tetris-js" target="_blank">Tetris Web Game</a> (JavaScript) - in progress</td>
+     <td><a href="https://github.com/MarynaShavlak/nanogram-xpert" target="_blank">NanogramXpert Game</a> (JavaScript, Canvas)</td>
   </tr>
   <tr>
     <td><img src='images/calculator.png' width=400 alt="скріншот  cторінки сайту" ></td>
-    <td><img src='images/tetris.png' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td><img src='images/nanogram-demo.gif' width=400 alt="скріншот  cторінки сайту" ></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MarynaShavlak/rock-paper-scissors" target="_blank">Rock-Paper-Scissors Web Game</a> (JavaScript)</td>
@@ -133,11 +133,11 @@
   </tr>
    <tr>
     <td><a href="[https://github.com/MarynaShavlak/car-landing](https://github.com/MarynaShavlak/bhagaskara-landing)" target="_blank">Bhagaskara Landing Page</a> (jQuery, Canvas)</td>
-    <td><a href="https://github.com/MarynaShavlak/nanogram-xpert" target="_blank">NanogramXpert Game</a> (JavaScript, Canvas)</td>
+    <td></td>
   </tr>
   <tr>
    <td><img src='images/bhagaskara-landing.gif' width=400 alt="скріншот  cторінки сайту" ></td>
-     <td><img src='images/nanogram-demo.gif' width=400 alt="скріншот  cторінки сайту" ></td>
+     <td></td>
   </tr>
 </table>
 
