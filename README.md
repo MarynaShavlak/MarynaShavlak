@@ -282,8 +282,8 @@
         <img src="https://img.shields.io/badge/react%20player-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
-      <th style="padding:
+  </tbody>
+</table>
 
 ## 🔗 Links to My Project Repositories: 
 ### Individual:
