@@ -17,9 +17,22 @@
 
 ## 💼 Technical Skills
 
-| Tables   |      Are   | 
-|----------|------------|
-|🧱 Core Technologies|⚛️ Frontend Frameworks & Libraries
+| 🧱 Core Technologies | ⚛️ Frontend Frameworks & Libraries |
+|----------------------|------------------------------------|
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
+
+| 🗃️ State Management | 🎨 Styling |
+|---------------------|------------|
+| ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)<br>![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%23753298.svg?style=for-the-badge&logo=redux&logoColor=white)<br>![RTK Query](https://img.shields.io/badge/RTK--Query-%234B32C3.svg?style=for-the-badge&logo=redux&logoColor=white)<br>![Zustand](https://img.shields.io/badge/zustand-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+
+| 🧰 Build Tools | 🔧 Code Quality |
+|----------------|------------------|
+| ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)<br>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)<br>![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)<br>![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) |
+
+| ✅ Forms & Validation | 🎬 Animations |
+|-----------------------|----------------|
+| ![Formik](https://img.shields.io/badge/formik-%2300B8D9.svg?style=for-the-badge&logo=formik&logoColor=white)<br>![Yup](https://img.shields.io/badge/yup-%2300A8E8.svg?style=for-the-badge&logoColor=white)<br>![Zod](https://img.shields.io/badge/zod-%23ff5a5f.svg?style=for-the-badge&logoColor=white) | ![Framer Motion](https://img.shields.io/badge/framer--motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)<br>![GSAP](https://img.shields.io/badge/gsap-%238CC84B.svg?style=for-the-badge&logo=greensock&logoColor=white)<br>![Lottie](https://img.shields.io/badge/lottie-%23FF7F50.svg?style=for-the-badge&logo=lottie&logoColor=white) |
+
 
 <table>
   <tr>
