@@ -79,7 +79,7 @@
       <th>🛠️ Utility Libraries</th>
     </tr>
     <tr>
-      <td>
+      <td style="vertical-align: top;">
         <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white">
       </td>
       <td>
