@@ -17,6 +17,10 @@
 
 ## 💼 Technical Skills
 
+| Tables   |      Are   | 
+|----------|------------|
+|🧱 Core Technologies|⚛️ Frontend Frameworks & Libraries
+
 <table>
   <tr>
     <td valign="top">
