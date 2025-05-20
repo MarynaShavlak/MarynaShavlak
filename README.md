@@ -15,6 +15,60 @@
 <br /><br /><br />
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 💼 Technical Skills
+
+<table>
+  <tr>
+    <td valign="top">
+
+### 🧱 Core Technologies  
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+### ⚛️ Frontend Frameworks  
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+- ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
+
+### 🗃️ State Management  
+- ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+- ![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%23753298.svg?style=for-the-badge&logo=redux&logoColor=white)  
+- ![RTK Query](https://img.shields.io/badge/RTK--Query-%234B32C3.svg?style=for-the-badge&logo=redux&logoColor=white)  
+- ![Zustand](https://img.shields.io/badge/zustand-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)  
+
+### 🎨 Styling  
+- ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+- ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### 🧰 Build Tools  
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
+- ![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)  
+
+### 🔧 Code Quality  
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+- ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)  
+- ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)  
+
+### ✅ Forms & Validation  
+- ![Formik](https://img.shields.io/badge/formik-%2300B8D9.svg?style=for-the-badge&logo=formik&logoColor=white)  
+- ![Yup](https://img.shields.io/badge/yup-%2300A8E8.svg?style=for-the-badge&logoColor=white)  
+- ![Zod](https://img.shields.io/badge/zod-%23ff5a5f.svg?style=for-the-badge&logoColor=white)  
+
+### 🎬 Animations  
+- ![Framer Motion](https://img.shields.io/badge/framer--motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)  
+- ![GSAP](https://img.shields.io/badge/gsap-%238CC84B.svg?style=for-the-badge&logo=greensock&logoColor=white)  
+- ![Lottie](https://img.shields.io/badge/lottie-%23FF7F50.svg?style=for-the-badge&logo=lottie&logoColor=white)  
+
+</td>
+</tr>
+</table>
+
+
 ## 🔗 Links to My Project Repositories: 
 ### Individual:
 <table>
