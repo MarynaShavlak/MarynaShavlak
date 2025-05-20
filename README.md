@@ -282,6 +282,23 @@
         <img src="https://img.shields.io/badge/react%20player-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 10px; border: 1px solid #ddd;">🔄 Media & Audio </th>
+      <th style="padding: 10px; border: 1px solid #ddd;"></th>
+      <th style="padding: 10px; border: 1px solid #ddd;"></th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://img.shields.io/badge/Howler.js-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Howler.js Badge">
+         <img src="https://img.shields.io/badge/React_Player-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Player Badge">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+     
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+       
+      </td>
+    </tr>
   </tbody>
 </table>
 
