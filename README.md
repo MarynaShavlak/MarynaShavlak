@@ -78,8 +78,8 @@
       <th>✅ Form Handling & Validation</th>
       <th>🛠️ Utility Libraries</th>
     </tr>
-    <tr>
-      <td style="vertical-align: top;">
+    <tr style="vertical-align: top;">
+      <td >
         <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white">
       </td>
       <td>
