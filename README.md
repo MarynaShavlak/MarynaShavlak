@@ -1,9 +1,12 @@
 ![banner-linkedin-0905](https://github.com/user-attachments/assets/70b41280-0021-4f15-849b-a875cd597aa8)
 
 # Hi there, I am Maryna Shavlak 👋
-- 🌱 I’m currently learning TypeScript.
+- 👩‍💻 I’m currently a frontend developer at **Prevently**, a startup creating a personal health assistant that empowers women to make confident medical decisions.
+- 🧠 We’re building a user-centered web app with features like lab booking, reminders, and personalized check-up plans—all designed to simplify preventive care.
+- 🤝 I collaborate closely with a small team: another frontend dev, a backend dev, and a designer.
+- 🌿 Our design values: simplicity, smart prevention, and cost-efficiency—guided by institutions like **NICE**, **USPSTF**, and **WHO**.
 
-👩‍💼 **Frontend Developer | UI/UX Enthusiast**: Passionate about crafting visually stunning and intuitive user interfaces using HTML, CSS, JavaScript, and React. 🚀<br />
+👩‍💼 **Frontend Developer | UI/UX Enthusiast**: Passionate about crafting visually stunning and intuitive user interfaces using JavaScript,  TypeScript and React. 🚀<br />
 👩‍💻 **Scientific Approach to Coding**: With a background in science, I bring a systematic and logical approach to coding challenges, coupled with excellent problem-solving skills. My ability to quickly grasp and apply new concepts makes me an adaptable force in the frontend development field. 🧠💻<br />
 🎓 **Grant Recipient - IT Generation Program**: Demonstrated capability as a Front End Developer by securing a grant for the IT Generation program. Proficient in leveraging technical skills alongside soft skills for impactful results. 🏆<br />
 🌟**Collaborator**: Excited about collaborating with fellow developers and designers to create compelling digital experiences. Let's turn ideas into reality! 🌐✨<br />
