@@ -19,7 +19,7 @@
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="width: 33%; padding: 10px; border: 1px solid #ddd;">🧱 Core Technologies</th>
       <th style="width: 33%; padding: 10px; border: 1px solid #ddd;">⚛️ Frontend Frameworks & Libraries</th>
       <th style="width: 33%; padding: 10px; border: 1px solid #ddd;">🗃️ State Management</th>
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/zustand-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🎨 Styling & UI Libraries</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🧰 Build Tools & Dev Environment</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🔧 Code Quality & Linting</th>
@@ -77,7 +77,7 @@
         <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🌐 Routing & Navigation</th>
       <th style="padding: 10px; border: 1px solid #ddd;">✅ Form Handling & Validation</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🛠️ Utility Libraries</th>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/cva-%23000000.svg?style=for-the-badge&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">📦 Package Managers</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🧪 Testing & QA</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🎬 Animations & Transitions</th>
@@ -133,7 +133,7 @@
         <img src="https://img.shields.io/badge/React%20Confetti-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🧩 Component Libraries</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🧑‍💻 Design & Prototyping</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🌐 API Development</th>
@@ -164,7 +164,7 @@
         <img src="https://img.shields.io/badge/TMDb%20API-%2301B4E4.svg?style=for-the-badge&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🚀 Deployment & Version Control</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📅 Date & Time Handling</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📝 Text & Content Editing</th>
@@ -190,7 +190,7 @@
         <img src="https://img.shields.io/badge/React%20Highlight%20Words-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🔍 Search & Filtering</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📊 Data Visualization & Tables</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🔄 Drag & Drop</th>
@@ -211,7 +211,7 @@
         <img src="https://img.shields.io/badge/react--beautiful--dnd-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🔄 Carousels & Layouts</th>
       <th style="padding: 10px; border: 1px solid #ddd;">⏳ Loading Indicators</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📄 Pagination & Load More</th>
@@ -233,7 +233,7 @@
         <img src="https://img.shields.io/badge/react%20show%20more%20text-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🔔 Modals & Notifications</th>
       <th style="padding: 10px; border: 1px solid #ddd;">🧰 Tweaks UI</th>
       <th style="padding: 10px; border: 1px solid #ddd;">👥 Accessibility & Device Detection</th>
@@ -259,7 +259,7 @@
         <img src="https://img.shields.io/badge/react%20device%20detect-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
       <th style="padding: 10px; border: 1px solid #ddd;">🔄 Progressive Web Apps</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📁 File Manipulation & Code Generation</th>
       <th style="padding: 10px; border: 1px solid #ddd;">✉️ Email & Media</th>
@@ -282,7 +282,7 @@
         <img src="https://img.shields.io/badge/react%20player-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
       </td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #c0ff72;">
   <th style="padding: 10px; border: 1px solid #ddd;">🔄 Media & Audio</th>
   <th style="padding: 10px; border: 1px solid #ddd;"></th>
   <th style="padding: 10px; border: 1px solid #ddd;"></th>
